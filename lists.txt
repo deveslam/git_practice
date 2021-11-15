@@ -6,5 +6,6 @@ oranges
 DIARY
 
 MEAT
+sausage
 
 PETS
